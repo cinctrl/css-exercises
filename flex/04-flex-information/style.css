@@ -24,3 +24,26 @@ img {
   justify-content: center;
   background: #eee;
 }
+/*usdgg*/
+body {
+  text-align: center;
+}
+.text {
+ margin-bottom: 32px;
+}
+
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+
+}
+
+.title {
+  text-align: center;
+}
+.info {
+  max-width: 200px;
+}
